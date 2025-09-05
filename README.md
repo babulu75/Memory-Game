@@ -2,8 +2,6 @@
 
 A simple Memory Card Game built using React. The goal is to flip two cards at a time and match all pairs in the least amount of time.
 
-<!-- (Optional: Add a screenshot of your UI) -->
-
 🎯 Features
 
 🎴 16 Cards arranged in a 4×4 grid.
@@ -44,7 +42,7 @@ Your best score is stored in the browser.
 
 Clone this repository
 
-git clone https://github.com/your-username/memory-game.git
+git clone https://github.com/babulu75/memory-game.git
 cd memory-game
 
 
@@ -55,12 +53,12 @@ npm install
 
 Start the app
 
-npm start
+npm run dev
 
 
 Open in your browser:
 
-http://localhost:3000
+http://localhost:5173
 
 📂 Project Structure
 memory-game/
